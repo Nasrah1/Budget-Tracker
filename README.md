@@ -26,4 +26,4 @@ To start the server, run npm start. To access the app after starting the server,
 
 ![Budget-Tracker](public/assets/img/Budget-Tracker.gif)
 
-
+mongodb+srv://nasra1:Bismillah1@cluster0.sercd.mongodb.net/<dbname>?retryWrites=true&w=majority
