@@ -24,5 +24,7 @@ To start the server, run npm start. To access the app after starting the server,
 
 ## Demo
 
+Link: [Budget-Tracker](https://afternoon-meadow-52752.herokuapp.com/)
+
 ![Budget-Tracker](public/assets/img/Budget-Tracker.gif)
 
